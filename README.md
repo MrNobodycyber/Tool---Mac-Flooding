@@ -32,4 +32,9 @@ Hope you enjoy it !
 
 7. Raise will be used with the "try" in line 30 : if there is no error while using verifiy function with the actual frame, continue the program. Else if the raise error of line 17 is executed bcs of the same value of MAC src, the program will use except  to return an error, and will not send the frame.
 
-8. "else" in line 
+8. "else" in line 35 -> if the function verify doesn't sent an error, then just send the frame to the target.
+
+9. Inversion of the symbol "=!" on line 13 -> "!="
+
+10. the function verify wasn't called correctly : "trame.verify(option)" -> "verify(option)".
+     
