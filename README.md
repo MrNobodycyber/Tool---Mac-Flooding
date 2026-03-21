@@ -30,4 +30,4 @@ Hope you enjoy it !
 
 6. Usage of "raise " to initiate an error if the frame is in the known MAC dictionnary; with an "ValueError" error.
 
-7. Raise will be used with the "try" in line
+7. Raise will be used with the "try" in line 30 : if there is no error while using verifiy function with the actual frame, continue the program. Else if the raise error of line
