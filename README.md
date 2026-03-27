@@ -37,4 +37,17 @@ Hope you enjoy it !
 9. Inversion of the symbol "=!" on line 13 -> "!="
 
 10. the function verify wasn't called correctly : "trame.verify(option)" -> "verify(option)".
-     
+
+
+-----------------------------------------------------------------------------------------------
+
+3RD VERSION : UPDATES
+
+-----------------------------------------------------------------------------------------------
+
+
+In this 3rd version, i had like
+
+
+
+
